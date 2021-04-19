@@ -11,7 +11,6 @@
 #### Features & Info
 * Loop - Queue and Track
 * Erela easy to understand code
-* Made by Manav Garg
 * BassBoost Filter
 * Lyrics Command. Having a library of more than 55M+ Songs. [KSOFT Lyric Module used]
 
@@ -49,7 +48,3 @@ Their API Website/Dashboard: [Click Here](https://api.ksoft.si/?utm_source=ksoft
 
 # NOTE:  
 IF YOU HAVE NOT ACQUIRED KSOFT API TOKEN AND PLAN TO NOT USE THE LYRIC COMMAND, DELETE THE LYRIC COMMAND FROM THE COMMANDS FOLDER!
-
-# Contributors:
- * [Manav Garg](https://github.com/ManavvGarg) -Code and Commands
- * [FirezTheGreat](https://github.com/FirezTheGreat) -File Structure and Message Events handler
